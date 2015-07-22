@@ -1,0 +1,23 @@
+#head {
+	margin-right: 0;
+	margin-left: auto;
+	margin-top: 0;
+}
+
+#logo {
+	padding-top: 112px;
+	position: relative;
+	text-align: center;
+}
+
+#searchbar {
+	padding-top: 10px;
+	text-align: center;	
+}
+
+#buttons {
+	padding-top: 10px;
+	text-align: center;
+
+
+}
