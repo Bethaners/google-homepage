@@ -5,9 +5,16 @@
 }
 
 #logo {
-	padding-top: 112px;
-	position: relative;
-	text-align: center;
+	width:100%;
+	padding-top:200px;
+	padding-bottom:25px;
+}
+
+#logo img {
+	display: block;
+	width: 269;
+	height: 95px;
+	margin: auto;
 }
 
 #searchbar {
@@ -20,4 +27,19 @@
 	text-align: center;
 
 
+}
+
+#searchbox {
+	width: 592px;
+	height: 27px;
+	margin:auto;
+	position:relative;
+}
+
+#searchbox input {
+	width:570px;
+	height:20px;
+	border:1px solid #DDDDDD;
+	padding: 0 10px;
+	margin: 0, auto;
 }
